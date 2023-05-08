@@ -14,5 +14,29 @@
 - Second item
 - Third item
 
+`code`
+
+---
+	
+[title]
+(https://www.example.com)
+![alt text](image.jpg
 
 
+---
+Link	[title](https://www.example.com)
+Image	![alt text](image.jpg
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+Heading ID	### My Great

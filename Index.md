@@ -12,6 +12,17 @@
 
 - First item
 - Second item
-- Third item
+- Third item 	
 
+`code` code
 
+--- Horizontal Rule 	
+
+**bold**
+```
+#include<stdio.h>
+
+main()
+{
+printf("hi");
+}
